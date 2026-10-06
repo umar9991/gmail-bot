@@ -1,0 +1,23 @@
+# Secrets & OAuth artifacts
+.env
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.env.local
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
